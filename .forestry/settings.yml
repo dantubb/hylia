@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Content
 - type: document
-  path: index.md
+  path: src/index.md
   label: Home
 - type: directory
   path: src/posts
